@@ -39,7 +39,6 @@ Real-time collaborative sticky notes app with 24-hr expiry, email invites, and s
 
 **M.S. Computer Science** — Illinois Institute of Technology, Chicago *(2026)*  
 **Google Cloud Generative AI Leader** *(2025)*  
-**AWS Cloud Practitioner**
 
 ---
 
