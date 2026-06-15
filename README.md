@@ -1,16 +1,49 @@
-## Hi there 👋
+# Hi, I'm Mukund Sanjay👋
 
-<!--
-**MuKuNdSaNjAy/MuKuNdSaNjAy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+AI-focused Software Engineer building intelligent systems — clinical NLP pipelines, LangGraph agents, and full-stack apps.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Tech Stack
+
+**AI/ML** · LangChain · LangGraph · Whisper · vLLM · NLP  
+**Languages** · Python · Java · SQL · JavaScript  
+**Frameworks** · React · Flutter/FlutterFlow · Docker · Supabase  
+**Cloud** · Google Cloud · AWS · Firebase  
+**Standards** · FHIR R4 · SNOMED-CT · ICD-10 · OpenMRS
+
+---
+
+## 🚀 Featured Projects
+
+### 🩺 [ClinScribe](https://github.com/mukundsanjaybharani/clinscribe)
+Multilingual AI clinical scribe — Whisper → LLM SOAP extraction → SNOMED-CT/ICD-10 mapping → FHIR R4 write-back into OpenMRS. Supports English, Hindi & Tamil.
+
+### 💬 [Just Vent.](https://github.com/mukundsanjaybharani/just-vent)
+Judgment-free AI emotional wellness listener. React + Supabase + Web Speech API with multilingual support (EN, HI, TA, TE).
+
+### 📝 [Snap-Notes](https://github.com/mukundsanjaybharani/snap-notes)
+Real-time collaborative sticky notes app with 24-hr expiry, email invites, and secure auth. Built with React + Supabase.
+
+---
+
+## 💼 Experience
+
+- **Darzy.ai** — Software Developer Intern *(Mar 2026 – Present)*  
+- **Careme Health** — Software Engineer Intern *(Dec 2024 – Mar 2025)*  
+- **OpenText Technologies** — Software Engineering Intern *(Jul 2022 – Jan 2023)*
+
+---
+
+## 🎓 Education & Certs
+
+**M.S. Computer Science** — Illinois Institute of Technology, Chicago *(2026)*  
+**Google Cloud Generative AI Leader** *(2025)*  
+**AWS Cloud Practitioner**
+
+---
+
+## 📫 Let's connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mukund-sanjay-bharani-3b3627214)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:mukundsanjaybharani@gmail.com)
