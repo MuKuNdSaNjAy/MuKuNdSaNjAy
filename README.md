@@ -7,7 +7,7 @@ AI-focused Software Engineer building intelligent systems — clinical NLP pipel
 ## 🛠 Tech Stack
 
 **AI/ML** · LangChain · LangGraph · Whisper · vLLM · NLP  
-**Languages** · Python · Java · SQL · JavaScript  
+**Languages** · Python · Java · SQL · JavaScript · TypeScript  
 **Frameworks** · React · Flutter/FlutterFlow · Docker · Supabase  
 **Cloud** · Google Cloud · AWS · Firebase  
 **Standards** · FHIR R4 · SNOMED-CT · ICD-10 · OpenMRS
