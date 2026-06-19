@@ -16,7 +16,7 @@ AI-focused Software Engineer building intelligent systems — clinical NLP pipel
 
 ## 🚀 Featured Projects
 
-### 🩺 [ClinScribe](https://github.com/mukundsanjaybharani/clinscribe)
+### 🩺 [ClinScribe](https://github.com/MuKuNdSaNjAy/Clinscribe)
 Multilingual AI clinical scribe — Whisper → LLM SOAP extraction → SNOMED-CT/ICD-10 mapping → FHIR R4 write-back into OpenMRS. Supports English, Hindi & Tamil.
 
 ### 💬 [Just Vent.](https://github.com/mukundsanjaybharani/just-vent)
