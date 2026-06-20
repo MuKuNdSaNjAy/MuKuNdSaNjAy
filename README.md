@@ -31,7 +31,7 @@ Real-time collaborative sticky notes app with 24-hr expiry, email invites, and s
 
 - **Darzy.ai** — Software Developer Intern *(Mar 2026 – Present)*  
 - **Careme Health** — Software Engineer Intern *(Dec 2024 – Mar 2025)*  
-- **OpenText Technologies** — Software Engineering Intern *(Jul 2022 – Jan 2023)*
+- **OpenText Technologies** — Intern *(Jul 2022 – Jan 2023)*
 
 ---
 
