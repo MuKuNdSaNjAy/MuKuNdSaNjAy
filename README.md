@@ -22,7 +22,7 @@ Multilingual AI clinical scribe — Whisper → LLM SOAP extraction → SNOMED-C
 ### 💬 [Just Vent.](https://github.com/MuKuNdSaNjAy/just-vent)
 Judgment-free AI emotional wellness listener. React + Supabase + Web Speech API with multilingual support (EN, HI, TA, TE).
 
-### 📝 [Snap-Notes](https://github.com/mukundsanjaybharani/snap-notes)
+### 📝 [Snap-Notes](https://github.com/MuKuNdSaNjAy/Snapnotes)
 Real-time collaborative sticky notes app with 24-hr expiry, email invites, and secure auth. Built with React + Supabase.
 
 ---
