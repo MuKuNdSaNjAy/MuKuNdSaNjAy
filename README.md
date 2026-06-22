@@ -19,7 +19,7 @@ AI-focused Software Engineer building intelligent systems — clinical NLP pipel
 ### 🩺 [ClinScribe](https://github.com/MuKuNdSaNjAy/Clinscribe)
 Multilingual AI clinical scribe — Whisper → LLM SOAP extraction → SNOMED-CT/ICD-10 mapping → FHIR R4 write-back into OpenMRS. Supports English, Hindi & Tamil.
 
-### 💬 [Just Vent.](https://github.com/mukundsanjaybharani/just-vent)
+### 💬 [Just Vent.](https://github.com/MuKuNdSaNjAy/just-vent)
 Judgment-free AI emotional wellness listener. React + Supabase + Web Speech API with multilingual support (EN, HI, TA, TE).
 
 ### 📝 [Snap-Notes](https://github.com/mukundsanjaybharani/snap-notes)
