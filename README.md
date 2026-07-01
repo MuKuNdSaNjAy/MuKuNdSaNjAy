@@ -6,12 +6,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=800&color=14B8A6&center=true&vCenter=true&width=650&lines=Multi-Agent+LLM+Orchestration+(LangGraph);Speech-to-Structured-Data+Pipelines;Healthcare+Interoperability+(FHIR%2FSNOMED);RAG+%2B+Fine-Tuning+%2B+Quantization" alt="Typing SVG" />
 </a>
 
-<br/>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mukund-sanjay-bharani-3b3627214)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mukundsanjaybharani@gmail.com)
-
-<img src="https://komarev.com/ghpvc/?username=MuKuNdSaNjAy&style=for-the-badge&color=14B8A6" alt="profile views"/>
+<img src="https://komarev.com/ghpvc/?username=MuKuNdSaNjAy&style=flat-square&color=14B8A6" alt="profile views"/>
 
 </div>
 
@@ -50,36 +45,39 @@ Input (audio/text) → ASR/NLU → LLM reasoning (LangGraph agents)
 
 ### 🧠 Core Competencies
 
-<table>
-<tr>
-<td valign="top" width="50%">
+<div align="center">
 
-**AI / ML**
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python" alt="Python" width="42" height="42"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" title="Java" alt="Java" width="42" height="42"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="42" height="42"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="42" height="42"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" title="PyTorch" alt="PyTorch" width="42" height="42"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" title="React" alt="React" width="42" height="42"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="42" height="42"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" title="Tailwind CSS" alt="Tailwind" width="42" height="42"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" title="Docker" alt="Docker" width="42" height="42"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" title="Supabase" alt="Supabase" width="42" height="42"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" title="Firebase" alt="Firebase" width="42" height="42"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" title="Google Cloud" alt="GCP" width="42" height="42"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" title="AWS" alt="AWS" width="42" height="42"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" title="PostgreSQL" alt="SQL" width="42" height="42"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git" alt="Git" width="42" height="42"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" title="GitHub" alt="GitHub" width="42" height="42"/>
 
-<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white"/> <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=graphql&logoColor=white"/> <img src="https://img.shields.io/badge/OpenAI_Whisper-412991?style=flat-square&logo=openai&logoColor=white"/> <img src="https://img.shields.io/badge/vLLM-FF6F00?style=flat-square&logo=pytorch&logoColor=white"/> <img src="https://img.shields.io/badge/LoRA_%2F_QLoRA-8A2BE2?style=flat-square"/> <img src="https://img.shields.io/badge/RAG-FF6F61?style=flat-square"/> <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>
+<br/><br/>
 
-**Languages**
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white"/>
+<img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=graphql&logoColor=white"/>
+<img src="https://img.shields.io/badge/OpenAI_Whisper-412991?style=flat-square&logo=openai&logoColor=white"/>
+<img src="https://img.shields.io/badge/vLLM-FF6F00?style=flat-square"/>
+<img src="https://img.shields.io/badge/LoRA_%2F_QLoRA-8A2BE2?style=flat-square"/>
+<img src="https://img.shields.io/badge/RAG-FF6F61?style=flat-square"/>
+<img src="https://img.shields.io/badge/FHIR_R4-E63946?style=flat-square&logo=hl7&logoColor=white"/>
+<img src="https://img.shields.io/badge/SNOMED--CT-005EB8?style=flat-square"/>
+<img src="https://img.shields.io/badge/ICD--10-0077B6?style=flat-square"/>
+<img src="https://img.shields.io/badge/OpenMRS-2E7D32?style=flat-square"/>
 
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/> <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white"/>
-
-</td>
-<td valign="top" width="50%">
-
-**Frontend**
-
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/> <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/> <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white"/>
-
-**Backend / Cloud**
-
-<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/> <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white"/> <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black"/> <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white"/> <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white"/>
-
-**Healthcare Standards**
-
-<img src="https://img.shields.io/badge/FHIR_R4-E63946?style=flat-square&logo=hl7&logoColor=white"/> <img src="https://img.shields.io/badge/SNOMED--CT-005EB8?style=flat-square"/> <img src="https://img.shields.io/badge/ICD--10-0077B6?style=flat-square"/> <img src="https://img.shields.io/badge/OpenMRS-2E7D32?style=flat-square"/>
-
-</td>
-</tr>
-</table>
+</div>
 
 ---
 
@@ -99,8 +97,13 @@ Input (audio/text) → ASR/NLU → LLM reasoning (LangGraph agents)
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mukund-sanjay-bharani-3b3627214)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mukundsanjaybharani@gmail.com)
+### Connect with me
+
+<a href="https://www.linkedin.com/in/mukund-sanjay-bharani-3b3627214"><img src="https://img.shields.io/badge/-000000?style=flat-square&logo=linkedin&logoColor=0A66C2" alt="LinkedIn" height="32"/></a>&nbsp;
+<a href="mailto:mukundsanjaybharani@gmail.com"><img src="https://img.shields.io/badge/-000000?style=flat-square&logo=gmail&logoColor=D14836" alt="Gmail" height="32"/></a>&nbsp;
+<a href="https://github.com/MuKuNdSaNjAy"><img src="https://img.shields.io/badge/-000000?style=flat-square&logo=github&logoColor=white" alt="GitHub" height="32"/></a>
+
+<br/><br/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:14B8A6,100:1E3264&height=90&section=footer" width="100%"/>
 
