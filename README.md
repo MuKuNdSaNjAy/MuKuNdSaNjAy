@@ -24,26 +24,26 @@ Input (audio/text) → ASR/NLU → LLM reasoning (LangGraph agents)
 
 ---
 
-### 🚀 Flagship Projects
+### Flagship Projects
 
-#### 🩺 [ClinScribe](https://github.com/MuKuNdSaNjAy/Clinscribe) — Multilingual Clinical Documentation Pipeline
+#### [ClinScribe](https://github.com/MuKuNdSaNjAy/Clinscribe) — Multilingual Clinical Documentation Pipeline
 **Problem:** Clinicians lose time on manual SOAP note-taking; existing scribes don't support Indic languages or map to interoperable standards.
 **Approach:** Whisper large-v3 for multilingual ASR (EN/HI/TA) → LangGraph agent pipeline for SOAP extraction → SNOMED-CT/ICD-10 entity mapping → FHIR R4 resource write-back into OpenMRS.
 **Stack:** `Whisper` `LangChain/LangGraph` `FHIR R4` `OpenMRS` `Python`
 
-#### 💬 [Just Vent.](https://github.com/MuKuNdSaNjAy/just-vent) — AI Emotional Wellness Listener
+#### [Just Vent.](https://github.com/MuKuNdSaNjAy/just-vent) — AI Emotional Wellness Listener
 **Problem:** Most mental-health chat tools are English-only and feel clinical rather than human.
 **Approach:** Real-time voice-to-text via Web Speech API, judgment-free LLM conversation design, multilingual support (EN/HI/TA/TE).
 **Stack:** `React` `Supabase` `Web Speech API`
 
-#### 📝 [Snap-Notes](https://github.com/MuKuNdSaNjAy/Snapnotes) — Real-Time Collaborative Notes
+#### [Snap-Notes](https://github.com/MuKuNdSaNjAy/Snapnotes) — Real-Time Collaborative Notes
 **Problem:** Quick, ephemeral team notes shouldn't need heavyweight tools or persistent accounts.
 **Approach:** Real-time sync with Supabase channels, 24-hour auto-expiry, email-based invite auth.
 **Stack:** `React` `Supabase` `Realtime`
 
 ---
 
-### 🧠 Core Competencies
+### Core Competencies
 
 <div align="center">
 
@@ -81,7 +81,7 @@ Input (audio/text) → ASR/NLU → LLM reasoning (LangGraph agents)
 
 ---
 
-### 📊 GitHub Activity
+### GitHub Activity
 
 <div align="center">
 
