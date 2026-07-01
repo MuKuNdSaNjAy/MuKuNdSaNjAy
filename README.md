@@ -12,7 +12,7 @@
 
 ---
 
-### ⚙️ What I build
+### What I build
 
 I design **end-to-end AI pipelines** that turn unstructured input (speech, free text) into structured, standards-compliant output — with LLM orchestration, agentic control flow, and real evaluation, not just prompt-and-pray.
 
@@ -24,7 +24,7 @@ Input (audio/text) → ASR/NLU → LLM reasoning (LangGraph agents)
 
 ---
 
-### Flagship Projects
+### 🚀 Flagship Projects
 
 #### [ClinScribe](https://github.com/MuKuNdSaNjAy/Clinscribe) — Multilingual Clinical Documentation Pipeline
 **Problem:** Clinicians lose time on manual SOAP note-taking; existing scribes don't support Indic languages or map to interoperable standards.
@@ -47,22 +47,22 @@ Input (audio/text) → ASR/NLU → LLM reasoning (LangGraph agents)
 
 <div align="center">
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python" alt="Python" width="42" height="42"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" title="Java" alt="Java" width="42" height="42"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="42" height="42"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="42" height="42"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" title="PyTorch" alt="PyTorch" width="42" height="42"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" title="React" alt="React" width="42" height="42"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="42" height="42"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" title="Tailwind CSS" alt="Tailwind" width="42" height="42"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" title="Docker" alt="Docker" width="42" height="42"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" title="Supabase" alt="Supabase" width="42" height="42"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" title="Firebase" alt="Firebase" width="42" height="42"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" title="Google Cloud" alt="GCP" width="42" height="42"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" title="AWS" alt="AWS" width="42" height="42"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" title="PostgreSQL" alt="SQL" width="42" height="42"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git" alt="Git" width="42" height="42"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" title="GitHub" alt="GitHub" width="42" height="42"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python" alt="Python" width="60" height="60"/>&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" title="Java" alt="Java" width="60" height="60"/>&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="60" height="60"/>&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="60" height="60"/>&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" title="PyTorch" alt="PyTorch" width="60" height="60"/>&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" title="React" alt="React" width="60" height="60"/>&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="60" height="60"/>&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" title="Tailwind CSS" alt="Tailwind" width="60" height="60"/>&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" title="Docker" alt="Docker" width="60" height="60"/>&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" title="Supabase" alt="Supabase" width="60" height="60"/>&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" title="Firebase" alt="Firebase" width="60" height="60"/>&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" title="Google Cloud" alt="GCP" width="60" height="60"/>&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" title="AWS" alt="AWS" width="60" height="60"/>&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" title="PostgreSQL" alt="SQL" width="60" height="60"/>&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git" alt="Git" width="60" height="60"/>&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" title="GitHub" alt="GitHub" width="60" height="60"/>
 
 <br/><br/>
 
@@ -85,11 +85,9 @@ Input (audio/text) → ASR/NLU → LLM reasoning (LangGraph agents)
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=MuKuNdSaNjAy&show_icons=true&theme=tokyonight&hide_border=true&title_color=14B8A6&icon_color=14B8A6&text_color=c9d1d9" height="165"/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=MuKuNdSaNjAy&theme=tokyonight&hide_border=true&ring=14B8A6&fire=14B8A6&currStreakLabel=14B8A6" height="165"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuKuNdSaNjAy&layout=compact&theme=tokyonight&hide_border=true&title_color=14B8A6&text_color=c9d1d9" height="165"/>
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=MuKuNdSaNjAy&theme=tokyo-night&hide_border=true&area=true" height="165"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=MuKuNdSaNjAy&theme=tokyo-night&hide_border=true&area=true" width="90%"/>
 
 </div>
 
@@ -99,9 +97,9 @@ Input (audio/text) → ASR/NLU → LLM reasoning (LangGraph agents)
 
 ### Connect with me
 
-<a href="https://www.linkedin.com/in/mukund-sanjay-bharani-3b3627214"><img src="https://img.shields.io/badge/-000000?style=flat-square&logo=linkedin&logoColor=0A66C2" alt="LinkedIn" height="32"/></a>&nbsp;
-<a href="mailto:mukundsanjaybharani@gmail.com"><img src="https://img.shields.io/badge/-000000?style=flat-square&logo=gmail&logoColor=D14836" alt="Gmail" height="32"/></a>&nbsp;
-<a href="https://github.com/MuKuNdSaNjAy"><img src="https://img.shields.io/badge/-000000?style=flat-square&logo=github&logoColor=white" alt="GitHub" height="32"/></a>
+<a href="https://www.linkedin.com/in/mukund-sanjay-bharani-3b3627214"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="40"/></a>&nbsp;&nbsp;
+<a href="mailto:mukundsanjaybharani@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" height="40"/></a>&nbsp;&nbsp;
+<a href="https://github.com/MuKuNdSaNjAy"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" height="40"/></a>
 
 <br/><br/>
 
