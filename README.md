@@ -29,37 +29,6 @@ Input (audio/text) → ASR/NLU → LLM reasoning (LangGraph agents)
 
 ---
 
-### 🧠 Core Competencies
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white"/>
-<img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=graphql&logoColor=white"/>
-<img src="https://img.shields.io/badge/OpenAI_Whisper-412991?style=for-the-badge&logo=openai&logoColor=white"/>
-<img src="https://img.shields.io/badge/vLLM-FF6F00?style=for-the-badge&logo=pytorch&logoColor=white"/>
-<img src="https://img.shields.io/badge/LoRA_%2F_QLoRA-8A2BE2?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/RAG-FF6F61?style=for-the-badge"/>
-<br/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
-<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white"/>
-<br/>
-<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-<img src="https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white"/>
-<img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white"/>
-<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-<br/>
-<img src="https://img.shields.io/badge/FHIR_R4-E63946?style=for-the-badge&logo=hl7&logoColor=white"/>
-<img src="https://img.shields.io/badge/SNOMED--CT-005EB8?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/ICD--10-0077B6?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/OpenMRS-2E7D32?style=for-the-badge"/>
-
-</div>
-
----
-
 ### 🚀 Flagship Projects
 
 #### 🩺 [ClinScribe](https://github.com/MuKuNdSaNjAy/Clinscribe) — Multilingual Clinical Documentation Pipeline
@@ -67,21 +36,50 @@ Input (audio/text) → ASR/NLU → LLM reasoning (LangGraph agents)
 **Approach:** Whisper large-v3 for multilingual ASR (EN/HI/TA) → LangGraph agent pipeline for SOAP extraction → SNOMED-CT/ICD-10 entity mapping → FHIR R4 resource write-back into OpenMRS.
 **Stack:** `Whisper` `LangChain/LangGraph` `FHIR R4` `OpenMRS` `Python`
 
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=MuKuNdSaNjAy&repo=Clinscribe&theme=tokyonight&hide_border=true&title_color=14B8A6&icon_color=14B8A6"/>
-
 #### 💬 [Just Vent.](https://github.com/MuKuNdSaNjAy/just-vent) — AI Emotional Wellness Listener
 **Problem:** Most mental-health chat tools are English-only and feel clinical rather than human.
 **Approach:** Real-time voice-to-text via Web Speech API, judgment-free LLM conversation design, multilingual support (EN/HI/TA/TE).
 **Stack:** `React` `Supabase` `Web Speech API`
-
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=MuKuNdSaNjAy&repo=just-vent&theme=tokyonight&hide_border=true&title_color=14B8A6&icon_color=14B8A6"/>
 
 #### 📝 [Snap-Notes](https://github.com/MuKuNdSaNjAy/Snapnotes) — Real-Time Collaborative Notes
 **Problem:** Quick, ephemeral team notes shouldn't need heavyweight tools or persistent accounts.
 **Approach:** Real-time sync with Supabase channels, 24-hour auto-expiry, email-based invite auth.
 **Stack:** `React` `Supabase` `Realtime`
 
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=MuKuNdSaNjAy&repo=Snapnotes&theme=tokyonight&hide_border=true&title_color=14B8A6&icon_color=14B8A6"/>
+---
+
+### 🧠 Core Competencies
+
+<table>
+<tr>
+<td valign="top" width="50%">
+
+**AI / ML**
+
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white"/> <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=graphql&logoColor=white"/> <img src="https://img.shields.io/badge/OpenAI_Whisper-412991?style=flat-square&logo=openai&logoColor=white"/> <img src="https://img.shields.io/badge/vLLM-FF6F00?style=flat-square&logo=pytorch&logoColor=white"/> <img src="https://img.shields.io/badge/LoRA_%2F_QLoRA-8A2BE2?style=flat-square"/> <img src="https://img.shields.io/badge/RAG-FF6F61?style=flat-square"/> <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>
+
+**Languages**
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/> <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white"/>
+
+</td>
+<td valign="top" width="50%">
+
+**Frontend**
+
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/> <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/> <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white"/>
+
+**Backend / Cloud**
+
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/> <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white"/> <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black"/> <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white"/> <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white"/>
+
+**Healthcare Standards**
+
+<img src="https://img.shields.io/badge/FHIR_R4-E63946?style=flat-square&logo=hl7&logoColor=white"/> <img src="https://img.shields.io/badge/SNOMED--CT-005EB8?style=flat-square"/> <img src="https://img.shields.io/badge/ICD--10-0077B6?style=flat-square"/> <img src="https://img.shields.io/badge/OpenMRS-2E7D32?style=flat-square"/>
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -94,12 +92,6 @@ Input (audio/text) → ASR/NLU → LLM reasoning (LangGraph agents)
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuKuNdSaNjAy&layout=compact&theme=tokyonight&hide_border=true&title_color=14B8A6&text_color=c9d1d9" height="165"/>
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=MuKuNdSaNjAy&theme=tokyo-night&hide_border=true&area=true" height="165"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/MuKuNdSaNjAy/MuKuNdSaNjAy/output/github-contribution-grid-snake-dark.svg" width="90%"/>
 
 </div>
 
